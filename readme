@@ -1,0 +1,5 @@
+https://github.com/pjbelo/mediapipe-js-demos
+npm init -y
+npm install express
+npm install @mediapipe/tasks-vision
+node app.js
